@@ -27,7 +27,7 @@ pyyaml
 seed_intersphinx_mapping
 setupext-janitor
 setuptools>=30.3.0
-setuptools_scm[toml]>=3.4
+setuptools_scm[toml]>=7.0
 Sphinx>=5.0.0
 sphinx-autodoc-typehints
 sphinx-copybutton
